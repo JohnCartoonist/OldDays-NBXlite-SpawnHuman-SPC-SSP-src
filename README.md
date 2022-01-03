@@ -5,4 +5,4 @@ NBXlite is a fork of InsanityBringer's NoBiomesX
 SSPC is a fork of simo_415's Single Player Commands 3.2.2.
 Everything in src/client/spc, bin/spc-* and bin-old/spc-* is licenced under GNU LGPLv3.
 
-I'm just a random infividual who wanted to acrhive these mods so they wouldn't be lost.
+I'm just a random infividual who wanted to archivee these mods so they wouldn't be lost.
