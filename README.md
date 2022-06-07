@@ -7,7 +7,7 @@ Everything in src/client/spc, bin/spc-* and bin-old/spc-* is licenced under GNU 
 
 I'm just a random individual who wanted to archive these mods so they wouldn't be lost. If you want to set this up for whatever reason, then here's how ya' do it:
 
-1. Download MCP. Don't worry my dear lad! Because somebody archived every official release of MCP here: https://archive.org/details/minecraftcoderpack
+1. Download MCP. But may not worry my dear lad! Because somebody archived every official release of MCP here: https://archive.org/details/minecraftcoderpack
 
 2. Decompile client using MCP.
 
