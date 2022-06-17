@@ -20,3 +20,5 @@ I'm just a random individual who wanted to archive these mods so they wouldn't b
 To build a release, run make.sh script in the MCP directory. Not from src-mods/build! Resulting zips will be in reobf/result2.
 
 build/ln.exe source code can be found here: https://github.com/neosmart/ln-win
+
+Some clever lad supposedly fixed this source code, so if you're a Java developer, please use his source code instead: https://github.com/Spyro201/Minecraft-mods
