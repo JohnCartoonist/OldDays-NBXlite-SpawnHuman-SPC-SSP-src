@@ -21,4 +21,4 @@ To build a release, run make.sh script in the MCP directory. Not from src-mods/b
 
 build/ln.exe source code can be found here: https://github.com/neosmart/ln-win
 
-Some clever lad supposedly fixed this source code, so if you're a Java developer, please use his source code instead: https://github.com/Spyro201/Minecraft-mods
+Some clever lad supposedly fixed this source code. So if you're a Java developer, please use his source code instead: https://github.com/Spyro201/Minecraft-mods
