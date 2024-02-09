@@ -8,6 +8,12 @@ SSPC is a fork of simo_415's Single Player Commands 3.2.2.
 Everything in src/client/spc, bin/spc-* and bin-old/spc-* is licenced under GNU LGPLv3.
 
 
+![OldDays-Revisited](https://github.com/JohnCartoonist/OldDays-NBXlite-SpawnHuman-SPC-SSP-src/assets/86744606/3851d16f-f69b-4b4c-b80f-a309f1b146e5)
+
+Of course, this repository is also the home of 'OldDays Revisited', which is primarily a fork of NBXlite designed to improve the noise generation. Even though the logo effect randomizer and a small portion of the Indev mob AI have been altered, those differences are rather insignificant.
+
+
+
 I'm just a random individual who wanted to archive these mods so they wouldn't be lost. If you want to set this up for whatever reason, then here's how ya' do it:
 
 
