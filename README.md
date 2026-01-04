@@ -33,3 +33,9 @@ To build a release, run make.sh script in the MCP directory. Not from src-mods/b
 build/ln.exe source code can be found here: https://github.com/neosmart/ln-win
 
 Some clever lad supposedly fixed this source code. So if you're a Java developer, please use his source code instead: https://github.com/Spyro201/Minecraft-mods
+
+
+
+# Notice
+
+OldDays Revisited has been abandoned, so any bugs you may encounter will not be fixed. This wasn't a recent decision of mine, I stopped working on this fork years ago in favor of moving on to other personal projects. I had my fun tweaking this old Minecraft mod with Recaf, but it is now a relic of my teen years. Thank you for playing OldDays Revisited :)
